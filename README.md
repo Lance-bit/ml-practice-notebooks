@@ -1,6 +1,6 @@
 # ML Practice Notebooks
 
-Small, self-contained notebooks covering tabular classification, regression, and basic NLP preprocessing. Each notebook is independent and can be run on its own. (Computer vision notebooks live in a [separate repo](https://github.com/lance-bit/computer-vision-notebooks).)
+Small, self-contained notebooks covering tabular classification, regression, and basic NLP preprocessing. Each notebook is independent and can be run on its own.
 
 ## Contents
 
