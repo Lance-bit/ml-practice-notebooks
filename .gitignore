@@ -1,0 +1,16 @@
+# Datasets pulled at runtime (opendatasets)
+data/
+*-dataset/
+
+# Generated at runtime
+*.pkl
+*.html
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
